@@ -8,21 +8,17 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   </a> 
 </div> 
 
-<div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://raw.githubusercontent.com/Kamalmdx/Knightbot-md/main/assets/bot_image_v2.jpg" height="300">
-  </a> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kamalmdx/Knightbot-md/main/assets/bot_banner.jpg" height="300">
+</p>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <div align="center">
+  <img src="https://img.shields.io/github/followers/Kamalmdx?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Kamalmdx/Knightbot-md?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Kamalmdx/Knightbot-md?style=for-the-badge">
+  <img src="https://img.shields.io/github/watchers/Kamalmdx/Knightbot-md?style=for-the-badge">
 </div>
-
----
-<div>
   <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Knightbot" target="_blank">
     <img src="assets/thor.png" alt="ThorData Proxies" width="100%" />
   </a>
@@ -86,16 +82,15 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 
 ### Join Us
-
 <div align="center">
   <a href="https://t.me/kamalmdx">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-<a href="https://whatsapp.com/channel/0029Vb7XW9THLHQWYTr6la0u">
+
+  <a href="https://whatsapp.com/channel/0029Vb7XW9THLHQWYTr6la0u">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
-
 ---
 
 ## ⚙️ Features
