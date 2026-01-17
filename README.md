@@ -91,7 +91,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/kamal_.pokhriya">
+  <a href="https://www.instagram.com/kamal_mdx?igsh=dHYwNHR6aGN2ZzR2">
     <img src="https://img.shields.io/badge/Join%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
