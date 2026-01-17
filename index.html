@@ -1,32 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Knight Bot Pair Code</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
 
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
       margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f4f4f4;
+      font-family: Arial, sans-serif;
     }
 
     .card {
       background: #fff;
-      padding: 25px;
-      border-radius: 12px;
+      padding: 30px;
+      border-radius: 16px;
       width: 320px;
       text-align: center;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
     }
 
-    .logo {
-      width: 60px;
+    .bot-icon {
+      font-size: 52px;
       margin-bottom: 10px;
     }
 
@@ -37,47 +39,43 @@
     p {
       font-size: 14px;
       color: #555;
-      margin-bottom: 15px;
     }
 
-    .social-icons {
-      margin: 15px 0;
+    .socials {
+      margin: 20px 0;
+      display: flex;
+      justify-content: center;
+      gap: 22px;
     }
 
-    .social-icons img {
-      width: 48px;
-      height: 48px;
-      margin: 0 8px;
-      transition: transform 0.2s;
+    .socials a {
+      font-size: 34px;
+      color: #000;
+      transition: 0.2s;
     }
 
-    .social-icons img:hover {
-      transform: scale(1.15);
+    .socials a:hover {
+      transform: scale(1.25);
     }
 
     input {
       width: 100%;
-      padding: 10px;
-      margin-top: 10px;
-      border-radius: 6px;
-      border: 1px solid #ccc;
+      padding: 12px;
       font-size: 14px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      margin-bottom: 15px;
     }
 
     button {
       width: 100%;
-      margin-top: 12px;
       padding: 12px;
+      font-size: 15px;
       background: #000;
       color: #fff;
       border: none;
-      border-radius: 6px;
-      font-size: 15px;
+      border-radius: 8px;
       cursor: pointer;
-    }
-
-    button:hover {
-      background: #222;
     }
   </style>
 </head>
@@ -85,30 +83,30 @@
 <body>
 
   <div class="card">
-    <img class="logo" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="Bot">
-
+    <div class="bot-icon">🤖</div>
     <h2>Knight Bot Pair Code</h2>
     <p>Link your WhatsApp device</p>
 
-    <div class="social-icons">
+    <!-- SOCIAL LINKS -->
+    <div class="socials">
       <!-- Instagram -->
-      <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+      <a href="https://www.instagram.com/kamal_.pokhriya" target="_blank">
+        <i class="fa-brands fa-instagram"></i>
       </a>
 
-      <!-- WhatsApp -->
-      <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png">
+      <!-- WhatsApp Channel -->
+      <a href="https://whatsapp.com/channel/0029Vb7XW9THLHQWYTr6la0u" target="_blank">
+        <i class="fa-brands fa-whatsapp"></i>
       </a>
 
       <!-- Telegram -->
-      <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">
+      <a href="https://t.me/kamalmdx" target="_blank">
+        <i class="fa-brands fa-telegram"></i>
       </a>
 
       <!-- GitHub -->
       <a href="https://github.com/Kamalmdx" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
+        <i class="fa-brands fa-github"></i>
       </a>
     </div>
 
