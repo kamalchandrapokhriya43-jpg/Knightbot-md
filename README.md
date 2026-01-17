@@ -53,7 +53,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/Kamalmdx/Knightbot-md/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -75,18 +75,6 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 ---
 
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
-<div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
 
 ### Deploy on VPS
 
@@ -96,17 +84,11 @@ For further customization and setup guidance, click the button below:
   </a>
 </div>
 
-### Deploy on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
-</a>
-</div>
 
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="https://t.me/kamalmdx">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
 <a href="https://whatsapp.com/channel/0029Vb7XW9THLHQWYTr6la0u">
@@ -148,8 +130,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
+    git clone https://github.com/Kamalmdx/Knightbot-md.git
+cd Knightbot-md
     ```
 
 2. **Install the dependencies:**
@@ -185,15 +167,15 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a ⭐ star on GitHub!  
+https://github.com/Kamalmdx/Knightbot-md
 
 
 ## Credits
 
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+- Base concept & inspiration: Mr Unique Hacker  
+- WhatsApp Library: Baileys (WhiskeySockets)  
+- Modified, customized & maintained by: **Kamalmdx**
 
 ---
 
