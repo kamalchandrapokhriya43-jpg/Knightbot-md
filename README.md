@@ -95,6 +95,9 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
     <img src="https://img.shields.io/badge/Join%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+<p align="center">
+  If you face any issues, feel free to follow us on Instagram and send a DM.
+</p>
 ---
 
 ## ⚙️ Features
