@@ -84,11 +84,15 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 ### Join Us
 <div align="center">
   <a href="https://t.me/kamalmdx">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078FF?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
   <a href="https://whatsapp.com/channel/0029Vb7XW9THLHQWYTr6la0u">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/kamal_.pokhriya">
+    <img src="https://img.shields.io/badge/Join%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 ---
@@ -129,7 +133,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 cd Knightbot-md
     ```
 
-2. **Install the dependencies:**
+2. **Install the dependencies:**<div align="center">
 
     ```bash
     npm install
